@@ -1,0 +1,34 @@
+﻿  gl3w.c
+  Module6_10.cpp
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\geometry\point3.h(115,65): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\shader_support\glsl_shader.h(56,13): warning C4996: '_open': This function or variable may be unsafe. Consider using _sopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\shader_support\glsl_shader.h(60,11): warning C4996: '_open': This function or variable may be unsafe. Consider using _sopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\shader_support\glsl_shader.h(70,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\lighting_shader_node.h(83,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\lighting_shader_node.h(85,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\lighting_shader_node.h(87,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\lighting_shader_node.h(89,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\lighting_shader_node.h(91,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\lighting_shader_node.h(93,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\lighting_shader_node.h(95,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\lighting_shader_node.h(97,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\textured_unit_square.h(17,28): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\textured_unit_square.h(18,32): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\textured_unit_square.h(27,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\textured_unit_square.h(28,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\textured_conic.h(14,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\textured_conic.h(23,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\textured_conic.h(28,38): warning C4244: 'argument': conversion from 'const uint32_t' to 'float', possible loss of data
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\textured_conic.h(28,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\textured_conic.h(28,63): warning C4244: 'argument': conversion from 'const uint32_t' to 'float', possible loss of data
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\textured_conic.h(28,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\textured_conic.h(33,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\textured_conic.h(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\Particle.hpp(34,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\Cloth.hpp(43,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\Module6_10.cpp(63,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\Module6_10.cpp(116,21): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\Module6_10.cpp(472,24): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Module6_10.vcxproj -> C:\Users\hugh9\Desktop\667ComputerGraphicsSP23\Module9Lab_updated\Module6_10\Release\Module6_10.exe
+          1 file(s) copied.
+          1 file(s) copied.
